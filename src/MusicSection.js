@@ -10,7 +10,7 @@ import { Instagram, MailOption, Music } from "grommet-icons";
 
 const CLIENT_ID = process.env.REACT_APP_CLIENT_ID;
 const CLIENT_SECRET = process.env.REACT_APP_CLIENT_SECRET;
-const REDIRECT_URI = "http://localhost:3000/";
+const REDIRECT_URI = "http://me.shelbypoly.com";
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize/";
 const RESPONSE_TYPE = "code";
 const AUTH_SCOPE = "user-top-read";
