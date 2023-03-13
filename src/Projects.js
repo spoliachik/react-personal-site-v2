@@ -22,12 +22,12 @@ const Projects = () => {
                 color="white"
                 margin="small"
             ></Button>
-            <Button 
+            {/* <Button 
                 href="https://www.youtube.com/watch?v=iz0ksZCFKr4"
                 label="Spotify: Song Color Generator"
                 color="white"
                 margin="small"
-            ></Button>
+            ></Button> */}
             {/* <Text>
                 React Hook Christmas Game
             </Text> */}
