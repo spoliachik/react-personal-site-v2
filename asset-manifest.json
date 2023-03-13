@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-personal-site-v2/static/js/main.bbf45137.js",
+    "main.js": "/react-personal-site-v2/static/js/main.c1b642ea.js",
     "static/js/787.1a8ea8a2.chunk.js": "/react-personal-site-v2/static/js/787.1a8ea8a2.chunk.js",
     "static/media/KSC-21.jpg": "/react-personal-site-v2/static/media/KSC-21.cf7b3a23d82b5d7357eb.jpg",
     "index.html": "/react-personal-site-v2/index.html",
-    "main.bbf45137.js.map": "/react-personal-site-v2/static/js/main.bbf45137.js.map",
+    "main.c1b642ea.js.map": "/react-personal-site-v2/static/js/main.c1b642ea.js.map",
     "787.1a8ea8a2.chunk.js.map": "/react-personal-site-v2/static/js/787.1a8ea8a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bbf45137.js"
+    "static/js/main.c1b642ea.js"
   ]
 }
