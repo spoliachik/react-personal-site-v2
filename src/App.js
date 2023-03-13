@@ -97,6 +97,9 @@ const App = () => {
                 <Image fit="cover" src={Portrait} />
               </Box>
             </Box>
+            <Box alignSelf="center" width="large" pad={{bottom: "medium"}}>
+              <Text style={{textAlign: 'center'}}>Hey there, it's Shelby! I'm a full-stack developer, consultant, and communicator. I'm also a musician, surfer, and volleyball player. I've got a passion for laughter, music, people, and making cool stuff. Here's what I've been working on recently:</Text>
+            </Box>
             <ResponsiveContext.Consumer>
               {size => (
                 <ResponsiveGrid

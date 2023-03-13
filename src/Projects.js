@@ -20,18 +20,17 @@ const Projects = () => {
                 href="https://www.youtube.com/watch?v=iz0ksZCFKr4"
                 label="One Second Everyday: 2022"
                 color="white"
+                margin="small"
             ></Button>
             <Button 
                 href="https://www.youtube.com/watch?v=iz0ksZCFKr4"
                 label="Spotify: Song Color Generator"
                 color="white"
+                margin="small"
             ></Button>
-            <Text>
+            {/* <Text>
                 React Hook Christmas Game
-            </Text>
-            <Text>
-                Writing
-            </Text>
+            </Text> */}
         </Box>
     );
 }
