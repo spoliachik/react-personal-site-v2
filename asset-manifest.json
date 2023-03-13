@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.bbf03264.js",
+    "main.js": "/static/js/main.9a26e2d3.js",
     "static/js/787.1a8ea8a2.chunk.js": "/static/js/787.1a8ea8a2.chunk.js",
     "static/media/KSC-21.jpg": "/static/media/KSC-21.cf7b3a23d82b5d7357eb.jpg",
     "index.html": "/index.html",
-    "main.bbf03264.js.map": "/static/js/main.bbf03264.js.map",
+    "main.9a26e2d3.js.map": "/static/js/main.9a26e2d3.js.map",
     "787.1a8ea8a2.chunk.js.map": "/static/js/787.1a8ea8a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bbf03264.js"
+    "static/js/main.9a26e2d3.js"
   ]
 }
