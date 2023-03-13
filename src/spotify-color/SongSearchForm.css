@@ -1,0 +1,35 @@
+.searchLabel {
+    text-align: center;
+}
+
+.mainDiv {
+    display: flex;
+    text-align: center;
+}
+
+.songModule {
+    text-align: center;
+}
+
+.searching {
+    padding: 10px;
+}
+
+.leftSide {
+    width: 50%;
+}
+
+.songDataModules {
+    height: 800px;
+    overflow: scroll;
+}
+
+.rightSide {
+    width: 50%;
+}
+
+.searchInput {
+    padding-right: 10px;
+    margin-top: 10px;
+    text-align: center;
+}

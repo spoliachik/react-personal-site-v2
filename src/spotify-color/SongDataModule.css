@@ -1,0 +1,37 @@
+.songTile {
+    width: 85%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    display: flex;
+    background-color:whitesmoke;
+    margin: 2%;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.songImageDiv {
+    max-width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.songImage {
+    width: 80%;
+}
+
+.songInfo {
+    width: 20%;
+    float: right;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+h3 {
+    font-size: 0.75em;
+}
+
+h1 {
+    font-size: 1.2em;
+}
