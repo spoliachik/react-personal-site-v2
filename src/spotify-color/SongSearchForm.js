@@ -9,7 +9,7 @@ require("dotenv").config();
 let credentials = {
     clientId: process.env.REACT_APP_CLIENT_ID,
     clientSecret: process.env.REACT_APP_CLIENT_SECRET,
-    redirectUri: 'http://localhost:3000/'
+    redirectUri: 'https://shelbypoly.com'
 }
 console.log(credentials);
 

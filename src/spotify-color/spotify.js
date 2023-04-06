@@ -8,7 +8,7 @@ console.log(process.env);
 let client_id = process.env.REACT_APP_CLIENT_ID;
 let client_secret = process.env.REACT_APP_CLIENT_SECRET;
 var response_type = 'code';
-var redirect_uri = 'http://localhost:3000/';
+var redirect_uri = 'https://shelbypoly.com';
 var url = 'https://accounts.spotify.com'
 
 export const loginURL = `${url}/authorize?client_id=${client_id}&response_type=${response_type}&redirect_uri=${redirect_uri}`
